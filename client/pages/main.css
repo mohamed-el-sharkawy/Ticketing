@@ -1,0 +1,45 @@
+.title {
+  text-align: center;
+  margin-top: 20px;
+}
+.auth-dev {
+  width: 35%;
+  margin: auto;
+  margin-top: 50px;
+}
+.auth-form {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin: 20px;
+  padding: 20px;
+  height: 350px;
+}
+.auth-label {
+  margin-bottom: 10px;
+}
+.navbar-brand {
+  margin-left: 20px;
+}
+.page-title {
+  margin-top: 20px;
+  text-align: center;
+}
+.new-dev {
+  width: 35%;
+  margin: auto;
+  margin-top: 50px;
+}
+.new-form {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin: 20px;
+  padding: 20px;
+  height: 350px;
+}
+.new-label {
+  margin-bottom: 10px;
+}
