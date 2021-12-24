@@ -1,7 +1,8 @@
-
 name: tests-payments
 on:
-  pull_request
+  pull_request:
+    paths:
+      - 'payments/**'
 jobs:
   bulid:
     runs-on: ubuntu-latest
